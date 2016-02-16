@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/home/priyanka/Downloads/Spradus/conf/routes
-// @DATE:Mon Feb 15 11:16:47 IST 2016
+// @SOURCE:/home/priyanka/Downloads/Spradus/Spradus-genie/conf/routes
+// @DATE:Tue Feb 16 14:02:38 IST 2016
 
 package router
 
