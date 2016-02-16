@@ -1,0 +1,54 @@
+body .tab a {
+  font-size: 15px;
+  color: #279fbb;
+  font-weight: 500;
+  display: block;
+  padding: 15px 20px;
+  font-family: "Montserrat", sans-serif;
+}
+.tab-paragraph-text{
+	padding: 5px 5px;
+	font-size:17px;
+	line-height:1.5;
+}
+
+.section-top{
+  margin-top:55px;
+}
+
+.process-details i {
+  font-size: 67px!important;
+}
+
+.content-box.style5.small h4 {
+  line-height: 25px;
+}
+
+.content-box-text{
+  font-size : 12px;
+}
+
+.right-align{
+  float:right;
+  color:black;
+}
+
+.right-align a, .right-align span {
+  color:black!important;
+}
+
+.footer .custom-copyright{
+  height:87px;
+}
+
+.custom-row-top{
+  margin-top : 20px;
+}
+
+.footer-color a , .footer-color span{
+  color:black!important;
+}
+
+.copyright ul{
+  list-style-type: none;
+}
