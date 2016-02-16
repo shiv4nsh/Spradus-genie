@@ -4,7 +4,7 @@
 		module="spradus-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20160215224201"
+		publication="20160216101451"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
