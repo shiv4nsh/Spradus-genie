@@ -25,7 +25,7 @@ body .tab a {
 }
 
 .content-box-text{
-  font-size : 12px;
+  font-size : 15px;
 }
 
 .right-align{
@@ -61,4 +61,110 @@ body .tab a {
 
 .custom-font{
   font-size: 1.2vw;
+}
+
+.custom-logo{
+  color: #696969;
+  font-weight: 600;
+  font-size:13px;
+  font-family:"Open Sans", sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+p{
+  font-size:17px;
+}
+
+.custom-p{
+  font-family: "Open Sans", sans-serif;
+  font-size: 15.5px;
+  line-height: 23px;
+  font-weight: 300;
+  /*text-shadow: 1px 2px 3px #C5D6C1;*/
+}
+
+.custom-bgcolor, .process-step, .single-process:after, .tabs-vertical .tab.active a, .tab.active {
+  background-color: rgb(96, 207, 96)!important;
+  color: white!important;
+}
+
+/*
+.custom-bgcolor{
+  /!* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d2ff52+1,91e842+34,91e842+38,91e842+39,91e842+100,91e842+100,91e842+100,91e842+100,91e842+100,91e842+101,91e842+102 *!/
+  background: #d2ff52; /!* Old browsers *!/
+  background: -moz-linear-gradient(top,  #d2ff52 1%, #91e842 34%, #91e842 38%, #91e842 39%, #91e842 100%, #91e842 100%, #91e842 100%, #91e842 100%, #91e842 100%, #91e842 101%, #91e842 102%); /!* FF3.6-15 *!/
+  background: -webkit-linear-gradient(top,  #d2ff52 1%,#91e842 34%,#91e842 38%,#91e842 39%,#91e842 100%,#91e842 100%,#91e842 100%,#91e842 100%,#91e842 100%,#91e842 101%,#91e842 102%); /!* Chrome10-25,Safari5.1-6 *!/
+  background: linear-gradient(to bottom,  #d2ff52 1%,#91e842 34%,#91e842 38%,#91e842 39%,#91e842 100%,#91e842 100%,#91e842 100%,#91e842 100%,#91e842 100%,#91e842 101%,#91e842 102%); /!* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ *!/
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2ff52', endColorstr='#91e842',GradientType=0 ); /!* IE6-9 *!/
+
+  /!*background-image: url('/assets/images/grass-texture.jpg');*!/
+  color: white!important;
+}
+*/
+
+.btn-black{
+  display:inline-flex;
+  background-color:#353434!important;
+  padding: 9px 15px!important;
+  font-size: 17px!important;
+}
+
+.btn-icon{
+  padding-left: 11px;
+}
+
+.h2-section-title{
+  font-size:32px;
+  font-weight:normal;
+}
+
+.custom-green{
+  color:rgba(140, 228, 85, 0.94)!important;
+}
+
+.tabs-vertical .tab a{
+  color:#4b4b4b!important;
+}
+
+.align{
+  margin-left: 25%;
+}
+
+.single-process:hover .process-details h4 {
+  transform: translateY(-80px);
+}
+
+.single-process:hover p{
+  transform: translateY(-72px);
+}
+
+.color-red{
+  color:red!important;
+}
+
+.color-orange {
+  color:orange!important;
+}
+
+.color-green{
+  color: lawngreen!important;
+}
+
+.color-blue {
+  color:blue!important;
+}
+
+.black-green {
+  color:rgba(49, 113, 9, 0.94)!important
+}
+
+.color-black{
+  color: black!important;
+}
+
+.bg-none{
+  background-color: white!important;
 }
