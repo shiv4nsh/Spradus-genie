@@ -68,6 +68,7 @@ body .tab a {
   font-weight: 600;
   font-size:13px;
   font-family:"Open Sans", sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 150px;
 }
 
 a {
@@ -167,4 +168,8 @@ p{
 
 .bg-none{
   background-color: white!important;
+}
+
+.left-align{
+  float: left;
 }
